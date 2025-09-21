@@ -1,128 +1,76 @@
-<p align="center">
-  <a href="https://github.com/uttamstha123/your-project-name">
-    <img src="[URL_TO_YOUR_AWESOME_GIF.gif]" alt="Project Logo/GIF" width="200" height="200" style="border-radius: 50%;">
-  </a>
-</p>
+# 👨‍💻 Saurabh Awasthi
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <a href="https://github.com/uttamstha123/your-project-name">
-    <span style="display: inline-block; animation: neon-text 1.5s ease-in-out infinite alternate;">My Awesome Project</span>
-  </a>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-
-<p align="center">
-  <a href="https://github.com/uttamstha123/your-project-name/stargazers">
-    <img src="https://img.shields.io/github/stars/uttamstha123/your-project-name.svg?style=flat-square&colorA=1D2024&colorB=FBC02D" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/uttamstha123/your-project-name/forks">
-    <img src="https://img.shields.io/github/forks/uttamstha123/your-project-name.svg?style=flat-square&colorA=1D2024&colorB=03A9F4" alt="GitHub forks">
-  </a>
-  <a href="https://github.com/uttamstha123/your-project-name/issues">
-    <img src="https://img.shields.io/github/issues/uttamstha123/your-project-name.svg?style=flat-square&colorA=1D2024&colorB=EF5350" alt="GitHub issues">
-  </a>
-  <a href="https://github.com/uttamstha123/your-project-name/pulls">
-    <img src="https://img.shields.io/github/issues-pr/uttamstha123/your-project-name.svg?style=flat-square&colorA=1D2024&colorB=66BB6A" alt="GitHub pull requests">
-  </a>
-  <a href="https://github.com/uttamstha123/your-project-name/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/uttamstha123/your-project-name.svg?style=flat-square&colorA=1D2024&colorB=AB47BC" alt="License">
-  </a>
-</p>
-
-<style>
-@keyframes neon-text {
-  0% { text-shadow: 0 0 5px #ff00de, 0 0 10px #ff00de, 0 0 20px #ff00de, 0 0 40px #ff00de, 0 0 80px #ff00de, 0 0 90px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de; }
-  100% { text-shadow: 0 0 2px #fff, 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00de, 0 0 40px #ff00de, 0 0 50px #ff00de, 0 0 75px #ff00de; }
-}
-</style>
+**Senior Software Engineer at Crédit Agricole CIB**  
+*Passionate about building scalable and efficient software solutions.*
 
 ---
 
-## 📝 Description
+## 🚀 About Me
 
-A brief and engaging description of what your project does. Explain its purpose, the problem it solves, and why it is useful.
+With over 11 years of experience in software development, I specialize in:
 
-* **Example:** My Awesome Project is a web-based task management tool that helps users organize their daily tasks and projects. It features a clean, intuitive interface and real-time synchronization across devices, making it perfect for both individual users and small teams.
+- **Backend Development**: Java, Spring Boot, Microservices
+- **Frontend Development**: JavaScript, React, jQuery
+- **Database Management**: MySQL, PostgreSQL
+- **Cloud & DevOps**: AWS, Docker, Kubernetes
 
----
-
-## ✨ Features
-
-Highlight the key features and functionalities of your project. Use a bulleted list for clarity.
-
-* Feature 1: A key function of your project.
-* Feature 2: Another significant feature.
-* Feature 3: A third unique or important capability.
+Currently, I am focused on enhancing my skills in **cloud-native architectures** and **AI-driven applications**.
 
 ---
 
-## 🛠️ Getting Started
+## 🔧 Technologies & Tools
 
-Instructions on how to get a copy of the project up and running on a local machine.
-
-### Prerequisites
-
-List any software or libraries that need to be installed before running the project.
-
-* **Node.js**: `14.x` or higher
-* **Python**: `3.8` or higher
-* **Git**: You need to have Git installed on your system.
-
-### Installation
-
-Provide step-by-step instructions on how to install and set up your project.
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/uttamstha123/your-project-name.git](https://github.com/uttamstha123/your-project-name.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd your-project-name
-    ```
-3.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-4.  **Run the application:**
-    ```bash
-    npm start
-    ```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🚀 Usage
+## 📈 GitHub Stats
 
-Explain how to use the project after it has been successfully installed. You can include code snippets, examples, or screenshots.
-
-* **Example:** To start using the task management tool, simply open your web browser and navigate to `http://localhost:3000`. You can then create an account and begin adding your tasks.
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhawasthi618&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Contributing
+## 📍 Connect with Me
 
-Guidelines on how others can contribute to your project. Mention the steps they should follow.
-
-1.  Fork the repository.
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
+- [LinkedIn](https://www.linkedin.com/in/saurabh-awasthi-77319420a)
+- [Portfolio](https://your-portfolio.com)
+- [Email](mailto:your-email@example.com)
 
 ---
 
-## 📄 License
+## 📌 Featured Projects
 
-Specify the license under which your project is distributed.
+### [Friends-Website](https://github.com/saurabhawasthi618/Friends-Website)
+A social networking site built with HTML and CSS.
 
-* **Example:** This project is licensed under the **MIT License** - see the `LICENSE` file for details.
+### [MedCab_Panel](https://github.com/saurabhawasthi618/MedCab_Panel)
+An admin panel for a medical cab service, developed using Blade templating.
+
+### [TextUtils-React](https://github.com/saurabhawasthi618/TextUtils-React)
+A text manipulation tool built with React.
 
 ---
 
-## 📧 Contact
+## 🏆 Achievements
 
-Provide contact information for users who might have questions or want to get in touch.
+- **Pair Extraordinaire x2**: Recognized for exceptional pair programming skills.
+- **Quickdraw**: Awarded for rapid problem-solving abilities.
+- **YOLO**: Celebrated for taking on challenging tasks fearlessly.
 
-* **Your Name** - your-email@example.com
-* **Project Link:** [https://github.com/uttamstha123/your-project-name](https://github.com/uttamstha123/your-project-name)
+---
+
+## 💬 Fun Fact
+
+I believe in continuous learning and am always exploring new technologies to stay ahead in the ever-evolving tech landscape.
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!*
+
