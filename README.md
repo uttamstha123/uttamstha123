@@ -44,9 +44,9 @@ I'm passionate about building web and mobile applications, learning new technolo
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttamshrestha)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/uttamshrestha](https://www.linkedin.com/in/uttam-shrestha/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)]([https://your-portfolio-link.com](https://uttam-shrestha.netlify.app/))  
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthauttam66@gmail.com)
 
 ---
 
