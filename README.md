@@ -1,76 +1,68 @@
-# 👨‍💻 Saurabh Awasthi
+# 👋 Hi, I’m Uttam Shrestha
 
-**Senior Software Engineer at Crédit Agricole CIB**  
-*Passionate about building scalable and efficient software solutions.*
+💻 **Software Developer | Web & Mobile App Enthusiast | AI & ML Learner**
+
+I'm passionate about building web and mobile applications, learning new technologies, and solving real-world problems through code.  
 
 ---
 
 ## 🚀 About Me
 
-With over 11 years of experience in software development, I specialize in:
-
-- **Backend Development**: Java, Spring Boot, Microservices
-- **Frontend Development**: JavaScript, React, jQuery
-- **Database Management**: MySQL, PostgreSQL
-- **Cloud & DevOps**: AWS, Docker, Kubernetes
-
-Currently, I am focused on enhancing my skills in **cloud-native architectures** and **AI-driven applications**.
+- 🌱 Currently exploring **AI/ML, Generative AI, and advanced Web Development**  
+- 👨‍💻 Experienced with **Laravel, ReactJS, NodeJS, Java, C++**  
+- 🔧 Tools & Technologies: **Git, GitHub, VS Code, Docker, MySQL, MongoDB**  
+- 🌍 Location: Lucknow, India  
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Tech Stack & Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhawasthi618&show_icons=true&theme=radical)
+![Uttam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttamstha123&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamstha123&layout=compact&theme=tokyonight)
 
 ---
 
-## 📍 Connect with Me
+## 🌱 Currently Learning
 
-- [LinkedIn](https://www.linkedin.com/in/saurabh-awasthi-77319420a)
-- [Portfolio](https://your-portfolio.com)
-- [Email](mailto:your-email@example.com)
+- Generative AI & ChatGPT API integration  
+- Advanced ReactJS & Next.js  
+- Cloud-native architectures (AWS & Docker)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uttamshrestha)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
 ## 📌 Featured Projects
 
-### [Friends-Website](https://github.com/saurabhawasthi618/Friends-Website)
-A social networking site built with HTML and CSS.
+### [Crop Recommendation System](https://github.com/uttamstha123/crop-recommendation)
+AI-based system to suggest the best crops to grow based on soil and climate conditions.
 
-### [MedCab_Panel](https://github.com/saurabhawasthi618/MedCab_Panel)
-An admin panel for a medical cab service, developed using Blade templating.
+### [HurryUp Cabs](https://github.com/uttamstha123/hurryup-cabs)
+Complete taxi booking platform with ReactJS frontend and Laravel backend.
 
-### [TextUtils-React](https://github.com/saurabhawasthi618/TextUtils-React)
-A text manipulation tool built with React.
-
----
-
-## 🏆 Achievements
-
-- **Pair Extraordinaire x2**: Recognized for exceptional pair programming skills.
-- **Quickdraw**: Awarded for rapid problem-solving abilities.
-- **YOLO**: Celebrated for taking on challenging tasks fearlessly.
+### [Portfolio Website](https://github.com/uttamstha123/portfolio)
+Personal portfolio to showcase projects, skills, and achievements.
 
 ---
 
 ## 💬 Fun Fact
 
-I believe in continuous learning and am always exploring new technologies to stay ahead in the ever-evolving tech landscape.
-
----
-
-*Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!*
-
+I love learning new technologies and building tools that solve real-world problems. Coffee fuels my coding sessions! ☕
